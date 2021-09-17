@@ -50,4 +50,6 @@ We can now enhance the Autoencoder by tweaking the hyperparameters and training 
 
 Moreover, it works no matter which bkg we took (for ex it could be shoes, hats, chairs... no matter what, our model will recognize if there is an anomaly).
 
+The new model is called AGANA.
+
 New Physics here we come ;°)
