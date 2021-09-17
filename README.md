@@ -3,7 +3,9 @@
 The original purpose of this study is to prove wrong one of the assumption of the Standard Model of particles, the conservation of the leptonic flavor.
 
 Quoting Shikma:
-"Using the data collected by the ATLAS experiment, we are looking for evidence for physics beyond the SM."
+"Using the data collected by the ATLAS experiment, we are looking for evidence for physics beyond the SM.
+We search for lepton flavor violating decays of the Higgs and Z bosons"
+
 For more details please look at:
 https://www.weizmann.ac.il/particle/Bressler/research-activities
 
