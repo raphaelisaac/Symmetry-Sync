@@ -1,8 +1,15 @@
 # Symmetry-Sync solved with AGANA for Weizmann Institute
 
 The original purpose of this study is to prove wrong one of the assumption of the Standard Model of particles, the conservation of the leptonic flavor.
+
+Quoting Shikma:
+"Using the data collected by the ATLAS experiment, we are looking for evidance for physics beyond the SM."
+https://www.weizmann.ac.il/particle/Bressler/research-activities
+
 We are provided by the CERN data arranged as images 28 x 28 x 1.
-Each "image" is a matrix of number which symbolize the number of events of a certain measure we decide to study. (for ex the mass of the new particle created by an "fusion" of muon and an electron called MuE). 
+Each "image" is a matrix of number which symbolize the number of events of a certain measure we decide to study. (for ex the mass of the new particle created by an "fusion" of muon and an electron called MuE). Using the data collected by the ATLAS experiment, we are looking for evidance for physics beyond the SM."
+https://www.weizmann.ac.il/particle/Bressler/research-activities
+
 When the muon has more energy than the electron it s called muon-electron (MuE) and electron muon when not (EMu).
 The theory says that we should have approximatively the same numbers of event of MuE and EMu.
 
