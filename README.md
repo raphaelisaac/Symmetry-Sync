@@ -1,4 +1,4 @@
-# Symmetry-Sync model AGANA
+# Symmetry-Sync proposed solution with model AGANA
 
 The original purpose of this study is to prove wrong one of the assumption of the Standard Model of particles, the conservation of the leptonic flavor.
 
