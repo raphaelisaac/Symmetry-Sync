@@ -1,9 +1,10 @@
-# Symmetry-Sync solved with AGANA for Weizmann Institute
+# Symmetry-Sync model AGANA
 
 The original purpose of this study is to prove wrong one of the assumption of the Standard Model of particles, the conservation of the leptonic flavor.
 
 Quoting Shikma:
-"Using the data collected by the ATLAS experiment, we are looking for evidance for physics beyond the SM."
+"Using the data collected by the ATLAS experiment, we are looking for evidence for physics beyond the SM."
+For more details please look at:
 https://www.weizmann.ac.il/particle/Bressler/research-activities
 
 The data provided by the CERN is arranged as images 28 x 28 x 1.
